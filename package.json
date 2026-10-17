@@ -1,11 +1,11 @@
 {
-	"name": "lesson_20",
+	"name": "hw20",
 	"version": "1.0.0",
 	"description": "",
 	"source": "src/index.html",
 	"scripts": {
 		"dev": "parcel src/index.html",
-		"build": "parcel build src/index.html --public-url /lesson_20"
+		"build": "parcel build src/index.html --public-url /hw20"
 	},
 	"keywords": [],
 	"devDependencies": {
